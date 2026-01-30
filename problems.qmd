@@ -1,0 +1,35 @@
+---
+title: "Problems Owen is Exploring"
+---
+
+::: {.hero-banner .text-center}
+
+<h1>Problems Owen is Exploring</h1>
+
+:::
+
+This page highlights the problems and opportunities Owen is currently researching and thinking about.
+
+## Text To Speech
+
+I don't like how it can be difficult to find interactive text to speech. I want to build an application that lets you turn text to speech in an interactive way-using AI voices of whoever you want.
+
+## One Time iPhone Notifications
+
+I want to make it so you can schedule from the calendar app to have alarms on your phone.
+
+## Public Speaking Coach
+
+I want to build an AI app that analyzes your speech and teaches you to be a better public speaker.
+
+## AI Stock Insider Trader Tracker
+
+I want to build a website that analyzes stock purchases and sales of senators to find patterns of who may be insider trading.
+
+## A Workout Plan Music App
+
+An app that interrupts your music to tell you when it is time to do your next set at the gym.
+
+
+
+

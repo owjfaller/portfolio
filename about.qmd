@@ -1,63 +1,144 @@
 ---
-title: "About Me"
+title: "About Owen Faller"
 ---
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Owen Faller" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Owen Faller</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/owenwfaller" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/owjfaller" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
 :::
 
-## Background
+<p style="text-indent: 2em;">Both of Owen's parents are from Canada, but he is from Orem, Utah. He is the oldest of 4 kids. Owen grew up playing basketball, football and soccer, and loves Star Wars. He went to serve a mission for the Church of Jesus Christ of Latter Day Saints for 2 years in Mexico. This was a life changing experience for him. Owen loves to optimize efficiency and solve problems. He is currently a sophomore studying Strategic Management at BYU. He loves to play sports and spend time with his friends and family. He also loves to travel.</p>
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+<div class="text-center mb-3">
+<a href="Owen_Faller_Resume.pdf" class="btn btn-primary btn-sm" download>
+  <i class="fas fa-download"></i> Download Resume
+</a>
+</div>
 
-### Education
+<details>
+<summary><h2 style="display: inline;">Contact</h2></summary>
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+<details>
+<summary><strong>Contact Information</strong></summary>
 
-### Experience
+- **Phone:** (801) 369-9072
+- **Email:** ofaller@byu.edu
 
-#### Job/Internship Title - Company Name
-*Dates*
+</details>
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+</details>
 
-#### Another Position - Company Name
-*Dates*
+<details>
+<summary><h2 style="display: inline;">Education</h2></summary>
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+<details>
+<summary><strong>Brigham Young University – Marriott School of Business</strong> | Provo, UT | Expected Apr 2028</summary>
 
-### Skills & Interests
+*Strategic Management Major*
 
-**Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+- GPA 3.97 | ACT 34/36
+- Brigham Young Academic Scholarship
+- **Relevant Coursework:** Statistics, Finance, Accounting, Information Systems, Entrepreneurship, Economics, and Strategic Management
 
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+</details>
 
-**Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+</details>
 
-### What's Next
+<details>
+<summary><h2 style="display: inline;">Experience</h2></summary>
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+<details>
+<summary><strong>Summer Sales Intern</strong> – Sundance Marketing | Marietta, GA | Jul 2025</summary>
+
+- Developed professional sales skills
+- Was the leading sales representative in revenue multiple days
+- Worked multiple 6-day, 60-hour weeks
+
+</details>
+
+<details>
+<summary><strong>Building Care Technician</strong> – Brigham Young University Building Care | Provo, UT | Oct 2024 – Jun 2025</summary>
+
+- Worked to service 16 4-floor buildings housing over 2000 residents
+- Worked efficiently both as a team member and individually
+- Quickly completed tasks and adapted to accommodate residents
+
+</details>
+
+<details>
+<summary><strong>Various Acting Roles</strong> – Arrowstorm Entertainment | Provo, UT | 2014 – 2025</summary>
+
+- Acted in speaking roles in multiple feature films and television series
+- Worked with directors and other cast members to perform various parts
+
+</details>
+
+<details>
+<summary><strong>Detail Technician</strong> – Take 5 Car Wash | Orem, UT | Nov 2021 – Aug 2022</summary>
+
+- Worked quickly and efficiently, cleaning multiple cars per hour
+- Found ways to provide value and ensure a good customer experience
+
+</details>
+
+</details>
+
+<details>
+<summary><h2 style="display: inline;">Leadership & Service</h2></summary>
+
+<details>
+<summary><strong>Volunteer Representative</strong> – The Church of Jesus Christ of Latter-day Saints | Puebla, Mexico | Sep 2022 – Aug 2024</summary>
+
+- Dedicated two years in service to the people of Mexico, helping them grow closer to Jesus Christ while organizing and performing community service
+- Learned effective teamwork and leadership skills working in multiple leadership positions
+- Developed personal skills and became fluent in Spanish, living and working independently in a foreign country
+
+</details>
+
+</details>
+
+<details>
+<summary><h2 style="display: inline;">Skills & Interests</h2></summary>
+
+<details>
+<summary><strong>Languages</strong></summary>
+
+- Fluent Spanish speaker and writer
+
+</details>
+
+<details>
+<summary><strong>Technical Skills</strong></summary>
+
+- Proficient in Excel and Solver
+- Experienced in R, VBA, and SQL
+- Advanced Math Skills (AP Calculus 1, Calculus 2, and Statistics – scored 5 on all)
+
+</details>
+
+<details>
+<summary><strong>Awards</strong></summary>
+
+- Academic All-State in high school football and lacrosse
+
+</details>
+
+<details>
+<summary><strong>Interests</strong></summary>
+
+- Strategy Games: Chess, Sudoku, Clash Royale
+- Case Studies
+
+</details>
+
+</details>
