@@ -1,54 +1,48 @@
 ---
-title: "Name of the application I have published for Homework 1"
-date: "2024-09-15"
+title: "Face Mash"
+date: "2025-01-29"
 categories: [GitHub, Vercel, Claude Code]
 ---
 
 ## Overview
 
-This project involved using Claude Code to write the code to needed to deveop an app that ...
-
-The primary purpose of this app is to:
-
-- ....
-- ....
+A face-mashing web app that morphs between two face images using client-side JavaScript. Uses face-api.js for facial landmark detection and implements Delaunay triangulation with affine transformations for smooth morphing.
 
 ## Live Product Demo
 
 <div class="d-flex justify-content-center gap-3 my-4">
-  <!-- Open App button -->
+  <!-- Vercel button -->
   <a class="btn btn-primary d-inline-flex align-items-center"
-     href="https://tetris-game-egc6.vercel.app/"
+     href="https://face-mash-six.vercel.app"
      target="_blank" rel="noopener"
      aria-label="Open live app">
     <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
-    Open App in New Tab
+    Open App on Vercel
   </a>
 
   <!-- GitHub Source button -->
   <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/your-user/your-repo"
+     href="https://github.com/owjfaller/Face-Mash"
      target="_blank" rel="noopener"
      aria-label="Open GitHub source">
     <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
-    View source on GitHub
+    View Source on GitHub
   </a>
 </div>
 
-<iframe src="https://tetris-game-egc6.vercel.app/"
-        style="width:100%; height:900px; border:none;"
+<iframe src="https://face-mash-six.vercel.app"
+        style="width:100%; height:700px; border:none; border-radius: 8px;"
         allowfullscreen>
 </iframe>
 
 ## Technical Details
 
-Framework/Stack: [e.g., React, Quarto, HTML/CSS/JS]
+**Framework/Stack:** HTML, CSS, JavaScript
 
-Deployment: GitHub Pages + Vercel
+**Deployment:** Vercel
 
-Tools Used:
--   Claude Code
+**Tools Used:**
 
-## Product Requirements Document
-
-Paste in the PRD that you submitted to Claude Code
+- Claude Code
+- face-api.js for facial landmark detection
+- Delaunay triangulation for face morphing

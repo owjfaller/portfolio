@@ -352,37 +352,30 @@
   {
     "objectID": "projects/project-1.html",
     "href": "projects/project-1.html",
-    "title": "Name of the application I have published for Homework 1",
+    "title": "Face Mash",
     "section": "",
-    "text": "This project involved using Claude Code to write the code to needed to deveop an app that …\nThe primary purpose of this app is to:\n\n….\n…."
+    "text": "A face-mashing web app that morphs between two face images using client-side JavaScript. Uses face-api.js for facial landmark detection and implements Delaunay triangulation with affine transformations for smooth morphing."
   },
   {
     "objectID": "projects/project-1.html#overview",
     "href": "projects/project-1.html#overview",
-    "title": "Name of the application I have published for Homework 1",
+    "title": "Face Mash",
     "section": "",
-    "text": "This project involved using Claude Code to write the code to needed to deveop an app that …\nThe primary purpose of this app is to:\n\n….\n…."
+    "text": "A face-mashing web app that morphs between two face images using client-side JavaScript. Uses face-api.js for facial landmark detection and implements Delaunay triangulation with affine transformations for smooth morphing."
   },
   {
     "objectID": "projects/project-1.html#live-product-demo",
     "href": "projects/project-1.html#live-product-demo",
-    "title": "Name of the application I have published for Homework 1",
+    "title": "Face Mash",
     "section": "Live Product Demo",
-    "text": "Live Product Demo\n\n   Open App in New Tab \n   View source on GitHub"
+    "text": "Live Product Demo\n\n   Open App on Vercel \n   View Source on GitHub"
   },
   {
     "objectID": "projects/project-1.html#technical-details",
     "href": "projects/project-1.html#technical-details",
-    "title": "Name of the application I have published for Homework 1",
+    "title": "Face Mash",
     "section": "Technical Details",
-    "text": "Technical Details\nFramework/Stack: [e.g., React, Quarto, HTML/CSS/JS]\nDeployment: GitHub Pages + Vercel\nTools Used: - Claude Code"
-  },
-  {
-    "objectID": "projects/project-1.html#product-requirements-document",
-    "href": "projects/project-1.html#product-requirements-document",
-    "title": "Name of the application I have published for Homework 1",
-    "section": "Product Requirements Document",
-    "text": "Product Requirements Document\nPaste in the PRD that you submitted to Claude Code"
+    "text": "Technical Details\nFramework/Stack: HTML, CSS, JavaScript\nDeployment: Vercel\nTools Used:\n\nClaude Code\nface-api.js for facial landmark detection\nDelaunay triangulation for face morphing"
   },
   {
     "objectID": "about.html",
