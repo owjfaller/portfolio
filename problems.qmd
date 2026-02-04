@@ -34,6 +34,10 @@ An app that interrupts your music to tell you when it is time to do your next se
 
 An app for building and visualizing your network. It uses mutual Instagram followers or LinkedIn connections to see how all of your contacts are interconnected.
 
+## Text Reminders
+
+An app that suggests people to reach out to and provides suggested text prompts to help you stay connected with your network.
+
 
 
 
