@@ -14,6 +14,9 @@ title: "Owen Faller's Product Management Portfolio"
 <a href="https://github.com/owjfaller" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
+<a href="Owen_Faller_Resume.pdf" class="btn btn-outline-primary btn-sm" download>
+  <i class="fas fa-download"></i> Resume
+</a>
 
 :::
 
